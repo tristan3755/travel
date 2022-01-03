@@ -25,10 +25,8 @@ window.scrollTo(0,valeurScroll)
 }
 </script>
 
-<style>
-*{
-    scroll-behavior: smooth;
-}
+<style scoped>
+
 .landingVideoContener{
     width: 100%;
     min-height: 100vh;
@@ -53,7 +51,7 @@ window.scrollTo(0,valeurScroll)
     justify-content: center;
     margin-top: 0;
     font-size:20vmin;
-    letter-spacing: 10vmin;
+    letter-spacing: 8vmin;
     text-align: center;
     font-weight: bold;
     mix-blend-mode:screen;
